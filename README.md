@@ -83,8 +83,10 @@ This project was built following a tutorial from [freeCodeCamp.org](http://freeC
 
 ### System Design
 
-![Blank diagram - Page 1 (3).png](Bulky%20Book%20Web%20App%201f98d6a200754236a217ff0a92ecebac/Blank_diagram_-_Page_1_(3).png)
+![Blank diagram - Page 1 (3)](https://github.com/samschodron/BulkyBook/assets/71097855/86ffa2eb-b3a5-4c8e-bd40-f3bc489a0527)
+
 
 ### Database ERD
 
-![Blank diagram - Page 1 (1).png](Bulky%20Book%20Web%20App%201f98d6a200754236a217ff0a92ecebac/Blank_diagram_-_Page_1_(1).png)
+![Blank diagram - Page 1 (1)](https://github.com/samschodron/BulkyBook/assets/71097855/78bfc495-afa2-49d1-ba7a-7bc334a81b04)
+
